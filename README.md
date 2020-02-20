@@ -7,23 +7,23 @@ A list of some Awesome projects present on the Internet (Downloadable | Open Sou
 * [Awesome Physics Basic <Kids>](https://github.com/GloverDonovan/awesome-physics) -Collection of Physics Resources
 * [Awesome Physics <Advanced>](https://github.com/wbierbower/awesome-physics)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* [Awesome Tor]	https://github.com/ajvb/awesome-tor
-* [Awesome Dot Net]	https://github.com/quozd/awesome-dotnet
-* [Awesome Dot Net Core]	https://github.com/thangchung/awesome-dotnet-core
-* [Awesome Dot Net Performance]	https://github.com/adamsitnik/awesome-dot-net-performance
-* [Awesome Dot Net Security]	https://github.com/guardrailsio/awesome-dotnet-security
-* [Awesome Dot Net Core CMS]	https://github.com/Smilefounder/awesome-dotnet-core-cms
-* [Clean Code Dot Net]	https://github.com/thangchung/clean-code-dotnet
-* [Just Awesome]	https://github.com/sindresorhus/awesome
-* [Awesome Windows]	https://github.com/Awesome-Windows/Awesome
-* [Awesome Awesomeness]	https://github.com/bayandin/awesome-awesomeness
-* [Awesome Python]	https://github.com/vinta/awesome-python
-* [Awesome Courses]	https://github.com/prakhar1989/awesome-courses
-* [Awesome Hacking]	https://github.com/Hack-with-Github/Awesome-Hacking
-* [Awesome IOS]	https://github.com/vsouza/awesome-ios
-* [Awesome Machine Learning]	https://github.com/josephmisiti/awesome-machine-learning
-* [Awesome Java]	https://github.com/akullpp/awesome-java
-* [Awesome React]	https://github.com/enaqx/awesome-react
+* [Awesome Tor]	(https://github.com/ajvb/awesome-tor)
+* [Awesome Dot Net]	(https://github.com/quozd/awesome-dotnet)
+* [Awesome Dot Net Core](https://github.com/thangchung/awesome-dotnet-core)
+* [Awesome Dot Net Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+* [Awesome Dot Net Security](https://github.com/guardrailsio/awesome-dotnet-security)
+* [Awesome Dot Net Core CMS](https://github.com/Smilefounder/awesome-dotnet-core-cms)
+* [Clean Code Dot Net](https://github.com/thangchung/clean-code-dotnet)
+* [Just Awesome](https://github.com/sindresorhus/awesome)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [Awesome IOS](https://github.com/vsouza/awesome-ios)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Java](https://github.com/akullpp/awesome-java)
+* [Awesome React](https://github.com/enaqx/awesome-react)
 Awesome Macintosh	https://github.com/jaywcjlove/awesome-mac
 Awesome Node Js	https://github.com/sindresorhus/awesome-nodejs
 Awesome PHP	https://github.com/ziadoz/awesome-php
