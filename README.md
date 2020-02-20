@@ -7,8 +7,8 @@ A list of some Awesome projects present on the Internet (Downloadable | Open Sou
 * [Awesome Physics Basic <Kids>](https://github.com/GloverDonovan/awesome-physics) -Collection of Physics Resources
 * [Awesome Physics <Advanced>](https://github.com/wbierbower/awesome-physics)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-* [Awesome Tor]	(https://github.com/ajvb/awesome-tor)
-* [Awesome Dot Net]	(https://github.com/quozd/awesome-dotnet)
+* [Awesome Tor](https://github.com/ajvb/awesome-tor)
+* [Awesome Dot Net](https://github.com/quozd/awesome-dotnet)
 * [Awesome Dot Net Core](https://github.com/thangchung/awesome-dotnet-core)
 * [Awesome Dot Net Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Awesome Dot Net Security](https://github.com/guardrailsio/awesome-dotnet-security)
@@ -24,19 +24,19 @@ A list of some Awesome projects present on the Internet (Downloadable | Open Sou
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Java](https://github.com/akullpp/awesome-java)
 * [Awesome React](https://github.com/enaqx/awesome-react)
-Awesome Macintosh	https://github.com/jaywcjlove/awesome-mac
-Awesome Node Js	https://github.com/sindresorhus/awesome-nodejs
-Awesome PHP	https://github.com/ziadoz/awesome-php
-Awesome CPP	https://github.com/fffaraz/awesome-cpp
-Self hosted Apps	https://github.com/awesome-selfhosted/awesome-selfhosted
-Public Datasets	https://github.com/awesomedata/awesome-public-datasets
-Android Tips	https://github.com/tangqi92/Android-Tips
-Android Security	https://github.com/ashishb/android-security-awesome
-CSS Awesome	https://github.com/awesome-css-group/awesome-css
-CSS Awesome frameworks	https://github.com/troxler/awesome-css-frameworks
-Awesome Unix Linux	https://github.com/sirredbeard/Awesome-UNIX
-Networking	https://github.com/clowwindy/Awesome-Networking
-Physics Simulation and Modeling(Fritzing App)	https://github.com/fritzing/fritzing-app
+* [Awesome Macintosh](https://github.com/jaywcjlove/awesome-mac)
+* [Awesome Node Js](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome PHP](https://github.com/ziadoz/awesome-php)
+* [Awesome CPP](https://github.com/fffaraz/awesome-cpp)
+* [Self hosted Apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Android Tips](https://github.com/tangqi92/Android-Tips)
+* [Android Security](https://github.com/ashishb/android-security-awesome)
+* [CSS Awesome](https://github.com/awesome-css-group/awesome-css)
+* [CSS Awesome frameworks](https://github.com/troxler/awesome-css-frameworks)
+* [Awesome Unix Linux](https://github.com/sirredbeard/Awesome-UNIX)
+* [Networking](https://github.com/clowwindy/Awesome-Networking)
+* [Physics Simulation and Modeling <Fritzing App>](https://github.com/fritzing/fritzing-app)
 
 
 
