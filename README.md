@@ -3,9 +3,9 @@ A list of some Awesome projects present on the Internet (Downloadable | Open Sou
 
 
 ## Table of contents
-* [Books Lists](https://github.com/learn-anything/books) - List of Popular Tor Projects
+* [Books Lists](https://github.com/learn-anything/books) - List of Popular Computer Science Books
 * [Awesome Physics Basic <Kids>](https://github.com/GloverDonovan/awesome-physics) -Collection of Physics Resources
-* [Awesome Physics <Advanced>](https://github.com/wbierbower/awesome-physics)
+* [Awesome Physics <Advanced>](https://github.com/wbierbower/awesome-physics) -
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Tor](https://github.com/ajvb/awesome-tor)
 * [Awesome Dot Net](https://github.com/quozd/awesome-dotnet)
