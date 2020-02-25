@@ -4,6 +4,7 @@ A list of some Awesome projects present on the Internet (Downloadable | Open Sou
 
 ## Table of contents
 * [Books Lists](https://github.com/learn-anything/books) - List of Popular Computer Science Books
+* [Programming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages) - List of Programming Languages
 * [Awesome Physics Basic <Kids>](https://github.com/GloverDonovan/awesome-physics) -Collection of Physics Resources
 * [Awesome Physics <Advanced>](https://github.com/wbierbower/awesome-physics) -
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
